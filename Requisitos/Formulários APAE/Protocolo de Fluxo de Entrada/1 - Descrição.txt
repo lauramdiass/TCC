@@ -1,0 +1,3 @@
+Este é aquele protocolo de fluxo de entrada, aquele documento impresso no qual colocamos o passo-a-passo do ingresso do paciente na instituição.
+
+A princípio, ele só vai para o sistema depois que a folha é toda preenchida, quando então é escaneada e armazenada na pasta do paciente.

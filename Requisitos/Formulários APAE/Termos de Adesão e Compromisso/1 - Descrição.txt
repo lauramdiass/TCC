@@ -1,0 +1,4 @@
+
+Estes dois documentos são assinados pelos responsáveis do paciente, quando este ingressa na instituição. Portanto, eles são impressos e, após assinados, nós escaneamos e colocamos dentro do sistema. 
+
+Pergunta: há a possibilidade de escanear e armazenar estes documentos no próprio sistema, dentro do cadastro do paciente? 
